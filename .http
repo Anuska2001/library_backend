@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-record
+Content-Type: application/json
+
+{
+    "book_name": "2 States",
+    "issuer_name": "Ishi",
+    "date": "2018-9-10"
+}
